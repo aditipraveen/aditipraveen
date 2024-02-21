@@ -5,11 +5,11 @@
 -->
 
 ## About Me 😃
-I'm currently pursuing my Undergrad in Artifical Intelligence and Machine Learning and am constantly seeking opportunities to enhance my Deep Learning skills.
+I'm currently pursuing my Undergrad in Artificial Intelligence and Machine Learning and am constantly seeking opportunities to enhance my Deep Learning skills.
 
 If you have collaborative ideas or suggestions, you can reach me at 📧 aditipraveen10@gmail.com.
 
-Or connect with me on LinkedIn: 
+Or connect with me on LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aditipraveenacharya/)
 
