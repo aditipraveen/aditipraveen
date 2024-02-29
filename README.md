@@ -1,5 +1,7 @@
 # Hello there! 👋 I'm Aditi
 
+![coding cat](https://github.com/aditipraveen/aditipraveen/blob/main/codingcat.gif?raw=true)
+
 <!--
 **aditipraveen/aditipraveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,7 +9,7 @@
 ## About Me 😃
 I'm currently pursuing my Undergrad in Artificial Intelligence and Machine Learning and am constantly seeking opportunities to enhance my Deep Learning skills.
 
-If you have collaborative ideas or suggestions, you can reach me at 📧 aditipraveen10@gmail.com.
+If you have collaborative ideas or suggestions, you can reach me at :email: aditipraveen10@gmail.com.
 
 Or connect with me on LinkedIn
 
